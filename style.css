@@ -2,6 +2,7 @@ section#topbar{
    height: 30px;
    background-color:#55415f;
    margin:-10px;
+  width:1000px;
 }
 section#header{
    height: 130px;
@@ -19,13 +20,13 @@ section#nav{
    height: 130px;
    width: 660px;
    margin-top: -140px;
-  margin-left:855px;
+  margin-left:525px;
   font-size:12px;
 }
 
 section#slider{
    height: 420px;
-  width: 1350px;
+  width: 1000px;
    background-color:#ebebeb;
    margin-top: -30px;
     margin-left: -10px;
@@ -69,21 +70,21 @@ section#base{
 section#mtext{ 
   color:black;
   margin-top: -285px;
-  margin-left: 780px;
+  margin-left: 600px;
   font-size:36px;
 }
 
 section#text{ 
   color:#999999;
   margin-top: -20px;
-  margin-left: 780px;
+  margin-left: 600px;
   font-size:16px;
   width: 300px;
 }
 section#button{ 
   background-color:#55415f;
   margin-top: 0px;
-  margin-left: 780px;
+  margin-left: 600px;
   font-size:16px;
   width: 130px;
   height:34px;
@@ -93,7 +94,7 @@ section#button{
 }
 
 section#services{ 
-  width: 1250px;
+  width: 900px;
   border-radius: 15px 15px 0 0;
   height: 420px;
   background: white;
@@ -104,32 +105,34 @@ section#services{
 section#textnib{ 
   color:black;
   margin-top: -140px;
-  margin-left: 210px;
+  margin-left: 160px;
   font-size:16px;
-  width: 850px;
+  width: 650px;
 }
 
 section#services1{ 
-  width: 1250px;
+  width: 1000px;
   height: 150px;
   background: white;
   margin-top: 7px;
-  margin-left: 40px;
+  margin-left: 10px;
 }
 section#fff{ 
-  width: 1250px;
+  width: 1000px;
   height: 20px;
-  margin-left: 40px;
+  margin-left: 20px;
+
 }
 section#ffff{ 
-  width: 1250px;
+  width: 1000px;
   height: 100px;
-  margin-left: 40px;
+  margin-left: 20px;
+
   
 }
 section#footer{
    height: 420px;
-  width: 1350px;
+  width: 1000px;
    background-color:#353535;
    margin-top: 30px;
     margin-left: -10px;
@@ -137,11 +140,11 @@ section#footer{
 
 section#latest{
    height: 420px;
-  width: 300px;
+  width: 200px;
   color:white;
   font-size:20px;
    margin-top: -420px;
-  margin-left: 40px;
+  margin-left: 20px;
 }
 section#linkblock{
    height: 420px;
@@ -149,7 +152,7 @@ section#linkblock{
     color:white;
   font-size:20px;
    margin-top: -440px;
-  margin-left: 380px;
+  margin-left: 280px;
 }
 section#company{
    height: 420px;
@@ -157,7 +160,7 @@ section#company{
     color:white;
   font-size:20px;
    margin-top: -440px;
-  margin-left: 700px;
+  margin-left: 515px;
 }
 section#news{
    height: 420px;
@@ -165,7 +168,7 @@ section#news{
     color:white;
   font-size:20px;
    margin-top: -440px;
-  margin-left: 1000px;
+  margin-left: 750px;
 }
 section#submit{
   background-color:#9f81a9;
@@ -179,21 +182,21 @@ section#submit{
 section#line{
   background-color:black;
   height:1px;
-  width:1340px;
-  margin-top: -140px;
+  width:990px;
+  margin-top: -120px;
   color:#585454;
 }
 section#line1{
   margin-top: 0px;
   color:#585454;
-  margin-left: 1100px;
+  margin-left: 750px;
 }
 
 
 
 section#topbar> div{ 
   float: right;
-  margin-right: 30px;
+  margin-right: 10px;
   margin-top: -8px;
   color: white;
 }
@@ -211,8 +214,8 @@ section#services> div{
   width: 210px;
   height:243px;
 
-  margin:15px;
-  margin-left:70px;
+  margin:5px;
+  margin-left:7px;
   float:left ;
   color:#353535;
   font-size:15px;
@@ -236,22 +239,21 @@ section#services1> div{
   font-size:25px;
   background-color:#353535;
   margin-top:0px;
-  margin-left:70px;
+  margin-left:10px;
   line-height:90px;
   float:left; 
 }
 section#fff> div { 
-  width: 225px;
-  height: 20px;
-  
-  margin-left: 70px;
+  width: 235px;
+  height: 20px;  
+  margin-left: 0px;
   float:left; 
   font-size:16px;
 }
 section#ffff >div{ 
-  width: 225px;
+  width: 235px;
   height: 100px;
-  margin-left: 70px;
+  margin-left: 0px;
   float:left;
 }
 section#linkblock>div{
