@@ -1,3 +1,7 @@
+section#centr{
+    width:960px;
+    margin:0 auto;
+        }
 section#topbar{
    height: 30px;
    background-color:#55415f;
